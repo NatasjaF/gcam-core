@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <region name="Africa_Eastern">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0.02</share-weight>
+                    <share-weight year="2040">0.02</share-weight>
+                    <share-weight year="2045">0.03</share-weight>
+                    <share-weight year="2050">0.04</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Africa_Northern">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0.07</share-weight>
+                    <share-weight year="2040">0.08</share-weight>
+                    <share-weight year="2045">0.12</share-weight>
+                    <share-weight year="2050">0.19</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Africa_Southern">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0.61</share-weight>
+                    <share-weight year="2040">0.72</share-weight>
+                    <share-weight year="2045">0.83</share-weight>
+                    <share-weight year="2050">0.96</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Africa_Western">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0.07</share-weight>
+                    <share-weight year="2040">0.09</share-weight>
+                    <share-weight year="2045">0.11</share-weight>
+                    <share-weight year="2050">0.13</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Argentina">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">1</share-weight>
+                    <share-weight year="2040">1</share-weight>
+                    <share-weight year="2045">1</share-weight>
+                    <share-weight year="2050">1</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Australia_NZ">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">1</share-weight>
+                    <share-weight year="2040">1</share-weight>
+                    <share-weight year="2045">1</share-weight>
+                    <share-weight year="2050">1</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Brazil">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">1</share-weight>
+                    <share-weight year="2040">1</share-weight>
+                    <share-weight year="2045">1</share-weight>
+                    <share-weight year="2050">1</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Canada">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0</share-weight>
+                    <share-weight year="2040">0</share-weight>
+                    <share-weight year="2045">0.23</share-weight>
+                    <share-weight year="2050">0.08</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Central America and Caribbean">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0</share-weight>
+                    <share-weight year="2040">0.11</share-weight>
+                    <share-weight year="2045">0.17</share-weight>
+                    <share-weight year="2050">0.21</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Central Asia">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0.28</share-weight>
+                    <share-weight year="2040">0.28</share-weight>
+                    <share-weight year="2045">0.29</share-weight>
+                    <share-weight year="2050">0.3</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="China">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0.28</share-weight>
+                    <share-weight year="2040">0.35</share-weight>
+                    <share-weight year="2045">0.04</share-weight>
+                    <share-weight year="2050">0.02</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Colombia">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0</share-weight>
+                    <share-weight year="2040">1</share-weight>
+                    <share-weight year="2045">1</share-weight>
+                    <share-weight year="2050">1</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="EU-12">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0.52</share-weight>
+                    <share-weight year="2040">0.52</share-weight>
+                    <share-weight year="2045">0.51</share-weight>
+                    <share-weight year="2050">0.51</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="EU-15">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0.2</share-weight>
+                    <share-weight year="2040">0.22</share-weight>
+                    <share-weight year="2045">0.09</share-weight>
+                    <share-weight year="2050">0.06</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Europe_Eastern">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0.07</share-weight>
+                    <share-weight year="2040">0.07</share-weight>
+                    <share-weight year="2045">0.12</share-weight>
+                    <share-weight year="2050">0.56</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Europe_Non_EU">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0.04</share-weight>
+                    <share-weight year="2040">0.04</share-weight>
+                    <share-weight year="2045">0.04</share-weight>
+                    <share-weight year="2050">0.05</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="European Free Trade Association">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0.25</share-weight>
+                    <share-weight year="2040">0.26</share-weight>
+                    <share-weight year="2045">0.2</share-weight>
+                    <share-weight year="2050">0.16</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="India">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0.01</share-weight>
+                    <share-weight year="2040">0.01</share-weight>
+                    <share-weight year="2045">0.03</share-weight>
+                    <share-weight year="2050">0.15</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Indonesia">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0.26</share-weight>
+                    <share-weight year="2040">0.31</share-weight>
+                    <share-weight year="2045">0.32</share-weight>
+                    <share-weight year="2050">0.33</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Japan">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">2</share-weight>
+                    <share-weight year="2040">2</share-weight>
+                    <share-weight year="2045">0.16</share-weight>
+                    <share-weight year="2050">0.08</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Mexico">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">1</share-weight>
+                    <share-weight year="2040">1</share-weight>
+                    <share-weight year="2045">1</share-weight>
+                    <share-weight year="2050">1</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Middle East">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0.14</share-weight>
+                    <share-weight year="2040">0.16</share-weight>
+                    <share-weight year="2045">0.17</share-weight>
+                    <share-weight year="2050">0.18</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Pakistan">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0.03</share-weight>
+                    <share-weight year="2040">0.03</share-weight>
+                    <share-weight year="2045">0.06</share-weight>
+                    <share-weight year="2050">0.11</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Russia">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0.21</share-weight>
+                    <share-weight year="2040">0.21</share-weight>
+                    <share-weight year="2045">0.2</share-weight>
+                    <share-weight year="2050">0.19</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="South Africa">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0.38</share-weight>
+                    <share-weight year="2040">0.44</share-weight>
+                    <share-weight year="2045">0.61</share-weight>
+                    <share-weight year="2050">0.87</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="South America_Northern">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0</share-weight>
+                    <share-weight year="2040">1</share-weight>
+                    <share-weight year="2045">1</share-weight>
+                    <share-weight year="2050">1</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="South America_Southern">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0.34</share-weight>
+                    <share-weight year="2040">0.62</share-weight>
+                    <share-weight year="2045">1</share-weight>
+                    <share-weight year="2050">1</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="South Asia">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0.14</share-weight>
+                    <share-weight year="2040">0.17</share-weight>
+                    <share-weight year="2045">0.25</share-weight>
+                    <share-weight year="2050">0.42</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="South Korea">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0</share-weight>
+                    <share-weight year="2040">0</share-weight>
+                    <share-weight year="2045">0</share-weight>
+                    <share-weight year="2050">0</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Southeast Asia">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0.09</share-weight>
+                    <share-weight year="2040">0.11</share-weight>
+                    <share-weight year="2045">0.16</share-weight>
+                    <share-weight year="2050">0.25</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Taiwan">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0</share-weight>
+                    <share-weight year="2040">0</share-weight>
+                    <share-weight year="2045">0.27</share-weight>
+                    <share-weight year="2050">0.3</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="USA">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight" delete="1" from-year="2050" to-year="2100">
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <share-weight year="2035">0</share-weight>
+                    <share-weight year="2040">0</share-weight>
+                    <share-weight year="2045">0</share-weight>
+                    <share-weight year="2050">0</share-weight>
+                </subsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

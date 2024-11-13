@@ -1,0 +1,3095 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <region name="Africa_Eastern">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.0419613</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0419613</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0419613</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0419613</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0419613</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0419613</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="PV_subsidy_2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0579194</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0579194</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0579194</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0579194</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0579194</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.014293</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.014293</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.014293</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.014293</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.014293</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.014293</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0214921</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0214921</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0214921</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0214921</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0214921</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Africa_Northern">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.0228051</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0228051</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0228051</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0228051</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0228051</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0228051</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="PV_subsidy_2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.030984</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.030984</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.030984</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.030984</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.030984</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.00707728</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00707728</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00707728</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00707728</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00707728</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00707728</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00710219</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00710219</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00710219</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00710219</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00710219</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Africa_Southern">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.000163</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.000163</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.000163</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.000163</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.000163</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.000163</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="PV_subsidy_2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.000926</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.000926</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.000926</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.000926</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.000926</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.000454</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.000454</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.000454</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.000454</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.000454</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.000454</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00282676</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00282676</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00282676</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00282676</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00282676</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Africa_Western">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.0128722</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0128722</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0128722</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0128722</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0128722</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0128722</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="PV_subsidy_2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0236797</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0236797</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0236797</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0236797</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0236797</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.0103359</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0103359</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0103359</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0103359</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0103359</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0103359</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0216165</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0216165</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0216165</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0216165</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0216165</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Argentina">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.00224229</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00224229</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00224229</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00224229</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00224229</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00224229</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="PV_subsidy_2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00317985</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00317985</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00317985</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00317985</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00317985</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.00862499</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00862499</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00862499</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00862499</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00862499</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00862499</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00870463</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00870463</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00870463</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00870463</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00870463</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Brazil">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.000829</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.000829</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.000829</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.000829</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.000829</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.000829</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="PV_subsidy_2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00196979</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00196979</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00196979</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00196979</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00196979</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.000869</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.000869</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.000869</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.000869</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.000869</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.000869</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00198932</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00198932</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00198932</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00198932</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00198932</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Central America and Caribbean">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.0179782</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0179782</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0179782</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0179782</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0179782</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0179782</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="PV_subsidy_2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0237944</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0237944</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0237944</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0237944</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0237944</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.0832617</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0832617</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0832617</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0832617</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0832617</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0832617</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0854859</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0854859</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0854859</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0854859</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0854859</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Central Asia">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.00146217</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00146217</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00146217</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00146217</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00146217</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00146217</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="PV_subsidy_2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00289755</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00289755</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00289755</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00289755</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00289755</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.0100868</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0100868</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0100868</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0100868</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0100868</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0100868</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0152966</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0152966</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0152966</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0152966</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0152966</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Colombia">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.00330382</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00330382</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00330382</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00330382</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00330382</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00330382</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="PV_subsidy_2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00478192</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00478192</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00478192</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00478192</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00478192</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.014492</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.014492</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.014492</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.014492</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.014492</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.014492</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0146621</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0146621</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0146621</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0146621</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0146621</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="EU-12">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>6.51e-06</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>6.51e-06</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>6.51e-06</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>6.51e-06</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>6.51e-06</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>6.51e-06</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="PV_subsidy_2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>1.66e-05</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>1.66e-05</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>1.66e-05</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>1.66e-05</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>1.66e-05</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>3.75e-05</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>3.75e-05</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>3.75e-05</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>3.75e-05</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>3.75e-05</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>3.75e-05</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>5.64e-05</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>5.64e-05</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>5.64e-05</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>5.64e-05</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>5.64e-05</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Europe_Eastern">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.00642749</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00642749</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00642749</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00642749</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00642749</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00642749</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="PV_subsidy_2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00856562</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00856562</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00856562</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00856562</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00856562</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.00501023</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00501023</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00501023</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00501023</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00501023</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00501023</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00499036</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00499036</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00499036</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00499036</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00499036</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Europe_Non_EU">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.00371388</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00371388</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00371388</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00371388</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00371388</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00371388</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="PV_subsidy_2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00307358</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00307358</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00307358</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00307358</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00307358</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.00458379</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00458379</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00458379</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00458379</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00458379</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00458379</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00510094</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00510094</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00510094</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00510094</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00510094</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="European Free Trade Association">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.00462673</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00462673</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00462673</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00462673</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00462673</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00462673</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00418242</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00418242</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00418242</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00418242</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00418242</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="India">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.0417717</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0417717</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0417717</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0417717</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0417717</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0417717</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="PV_subsidy_2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0120689</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0120689</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0120689</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0120689</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0120689</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.0553961</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0553961</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0553961</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0553961</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0553961</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0553961</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0545425</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0545425</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0545425</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0545425</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0545425</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Indonesia">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.000356</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.000356</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.000356</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.000356</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.000356</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.000356</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.000578</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.000578</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.000578</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.000578</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.000578</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.000578</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Mexico">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.0119355</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0119355</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0119355</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0119355</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0119355</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0119355</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="PV_subsidy_2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0137865</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0137865</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0137865</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0137865</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0137865</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.0211686</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0211686</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0211686</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0211686</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0211686</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0211686</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.020337</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.020337</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.020337</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.020337</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.020337</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Middle East">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.0555315</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0555315</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0555315</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0555315</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0555315</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0555315</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="PV_subsidy_2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.037735</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.037735</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.037735</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.037735</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.037735</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.0331435</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0331435</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0331435</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0331435</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0331435</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0331435</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0363638</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0363638</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0363638</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0363638</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0363638</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Pakistan">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.012266</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.012266</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.012266</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.012266</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.012266</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.012266</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="PV_subsidy_2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.016477</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.016477</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.016477</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.016477</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.016477</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.00737856</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00737856</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00737856</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00737856</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00737856</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00737856</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00767121</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00767121</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00767121</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00767121</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00767121</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Russia">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.00224117</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00224117</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00224117</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00224117</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00224117</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00224117</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="PV_subsidy_2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00426478</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00426478</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00426478</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00426478</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00426478</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.00584426</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00584426</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00584426</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00584426</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00584426</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00584426</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00852321</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00852321</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00852321</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00852321</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00852321</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="South Africa">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.00816648</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00816648</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00816648</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00816648</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00816648</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00816648</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="PV_subsidy_2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0148339</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0148339</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0148339</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0148339</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0148339</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.00345071</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00345071</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00345071</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00345071</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00345071</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00345071</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00222748</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00222748</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00222748</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00222748</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00222748</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="South America_Northern">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.00289418</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00289418</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00289418</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00289418</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00289418</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00289418</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="PV_subsidy_2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00202186</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00202186</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00202186</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00202186</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00202186</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.00825151</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00825151</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00825151</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00825151</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00825151</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00825151</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0103586</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0103586</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0103586</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0103586</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0103586</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="South America_Southern">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.00680262</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00680262</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00680262</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00680262</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00680262</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00680262</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="PV_subsidy_2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0162162</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0162162</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0162162</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0162162</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0162162</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.0231385</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0231385</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0231385</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0231385</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0231385</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0231385</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.049693</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.049693</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.049693</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.049693</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.049693</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="South Asia">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.0297464</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0297464</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0297464</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0297464</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0297464</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0297464</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="PV_subsidy_2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0363525</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0363525</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0363525</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0363525</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0363525</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.00647567</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00647567</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00647567</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00647567</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00647567</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00647567</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00770767</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00770767</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00770767</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00770767</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00770767</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="South Korea">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>8.66000000000001e-05</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>8.66000000000001e-05</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>8.66000000000001e-05</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>8.66000000000001e-05</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>8.66000000000001e-05</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>8.66000000000001e-05</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.000205</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.000205</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.000205</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.000205</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.000205</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.000205</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Southeast Asia">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.0373952</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0373952</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0373952</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0373952</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0373952</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0373952</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="PV_subsidy_2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0686539</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0686539</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0686539</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0686539</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0686539</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.0160855</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0160855</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0160855</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0160855</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0160855</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0160855</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.0315346</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.0315346</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.0315346</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.0315346</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.0315346</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Taiwan">
+            <supplysector name="electricity">
+ <subsector name="windfall_compensation">             <relative-cost-logit>
+                        <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+                    </relative-cost-logit>
+                    <stub-technology name="PV_subsidy_2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.00216539</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00216539</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00216539</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00216539</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00216539</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00216539</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="PV_subsidy_2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00402095</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00402095</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00402095</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00402095</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00402095</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2025">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0.00116533</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00116533</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00116533</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00116533</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00116533</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00116533</fixedOutput>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="wind_subsidy2030">
+                        <period year="2020">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2025">
+                            <fixedOutput>0</fixedOutput>
+                        </period>
+                        <period year="2030">
+                            <fixedOutput>0.00133322</fixedOutput>
+                        </period>
+                        <period year="2035">
+                            <fixedOutput>0.00133322</fixedOutput>
+                        </period>
+                        <period year="2040">
+                            <fixedOutput>0.00133322</fixedOutput>
+                        </period>
+                        <period year="2045">
+                            <fixedOutput>0.00133322</fixedOutput>
+                        </period>
+                        <period year="2050">
+                            <fixedOutput>0.00133322</fixedOutput>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <global-technology-database>
+            <location-info sector-name="electricity" subsector-name="windfall_compensation">
+                <technology name="PV_subsidy_2025">
+                    <period year="1975">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="1990">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2005">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2010">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2015">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2020">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2025">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2030">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2035">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2040">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2045">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2050">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2055">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2060">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2065">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2070">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2075">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2080">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2085">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2090">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2095">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2100">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                </technology>
+                <technology name="PV_subsidy_2030">
+                    <period year="1975">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="1990">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2005">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2010">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2015">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2020">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2025">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2030">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2035">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2040">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2045">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2050">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2055">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2060">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2065">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2070">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2075">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2080">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2085">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2090">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2095">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2100">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                </technology>
+                <technology name="wind_subsidy2025">
+                    <period year="1975">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="1990">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2005">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2010">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2015">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2020">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2025">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2030">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2035">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2040">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2045">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2050">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2055">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2060">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2065">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2070">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2075">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2080">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2085">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2090">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2095">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2100">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                </technology>
+                <technology name="wind_subsidy2030">
+                    <period year="1975">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="1990">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2005">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2010">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2015">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2020">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2025">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2030">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2035">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2040">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2045">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2050">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2055">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2060">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2065">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2070">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2075">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2080">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2085">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2090">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2095">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                    <period year="2100">
+                        <share-weight>0</share-weight>
+                        <CO2 name="CO2"/>
+                        <minicam-non-energy-input name="non-energy">
+                            <input-cost>0</input-cost>
+                        </minicam-non-energy-input>
+                    </period>
+                </technology>
+            </location-info>
+        </global-technology-database>
+    </world>
+</scenario>
