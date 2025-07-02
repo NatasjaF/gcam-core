@@ -8,7 +8,9 @@ After building the data system, all these scenarios should run properly.
 
 NOTE: `tidyr 1.1.3` was used to develop these new chunks. Later versions of `tidyr` have had problems running the new policy chunks. If you are not using `renv`, you may want to install this version of `tidyr` with `devtools::install_version("tidyr", version = "1.1.3")`. 
 
-## Coming Soon: Documentation for how to change policy files in gcamdata
+# Dirsuptive events_DACCs scenarios
+All the xmls to run the scenarios are included at:
+exe/DERPs
 
 # Global Change Analysis Model (GCAM)
 
