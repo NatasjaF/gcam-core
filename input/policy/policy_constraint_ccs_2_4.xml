@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <region name="USA">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Canada">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="EU-15">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Europe_Non_EU">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="European Free Trade Association">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Japan">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Australia_NZ">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Central Asia">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Russia">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="China">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Middle East">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Africa_Eastern">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Africa_Northern">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Africa_Southern">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Africa_Western">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="South Africa">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Brazil">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Central America and Caribbean">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Mexico">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="South America_Northern">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="South America_Southern">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Argentina">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Colombia">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Indonesia">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Pakistan">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="South Asia">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Southeast Asia">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Taiwan">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Europe_Eastern">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="EU-12">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="South Korea">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="India">
+            <policy-portfolio-standard name="CCS_Policy">
+<policyType>tax</policyType>    <market>global</market>
+ 
+<constraint year="2025">272.7024816</constraint>
+<constraint year="2030">545.4049632</constraint>
+<constraint year="2035">681.756204</constraint>
+<constraint year="2040">818.1074448</constraint>
+<constraint year="2045">954.4586856</constraint>
+<constraint year="2050">1090.809926</constraint>
+<constraint year="2055">1227.161167</constraint>
+<constraint year="2060">1363.512408</constraint>
+<constraint year="2065">1499.863649</constraint>
+<constraint year="2070">1636.21489</constraint>
+<constraint year="2075">1772.56613</constraint>
+<constraint year="2080">1908.917371</constraint>
+<constraint year="2085">2045.268612</constraint>
+<constraint year="2090">2181.619853</constraint>
+<constraint year="2095">2317.971094</constraint>
+<constraint year="2100">2454.322334</constraint>
+            </policy-portfolio-standard>
+        </region>
+<global-technology-database>
+<location-info sector-name="carbon-storage" subsector-name="onshore carbon-storage">
+                <technology name="onshore carbon-storage">
+                    <period year="1975">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="1990">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2005">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2010">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2015">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2020">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2025">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2030">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2035">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2040">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2045">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2050">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2055">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2060">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2065">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2070">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2075">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2080">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2085">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2090">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2095">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2100">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="carbon-storage" subsector-name="offshore carbon-storage">
+                <technology name="offshore carbon-storage">
+                    <period year="1975">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="1990">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2005">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2010">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2015">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2020">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2025">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2030">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2035">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2040">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2045">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2050">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2055">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2060">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2065">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2070">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2075">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2080">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2085">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2090">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2095">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                    <period year="2100">
+ 
+<input-tax name="CCS_Policy"/>   </period>
+                </technology>
+            </location-info>
+            
+            
+            
+        </global-technology-database>
+    </world>
+</scenario>

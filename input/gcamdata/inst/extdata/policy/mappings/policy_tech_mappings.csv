@@ -554,3 +554,4 @@ COMM_ELEC,comm cooling,electricity,electricity
 COMM_ELEC,comm heating,electricity,electricity
 ELEC_BLD,elect_td_bld,elect_td_bld,elect_td_bld
 ELEC_BLD,elect_td_bld,rooftop_pv,rooftop_pv
+DACCS,airCO2,airCO2,airCO2

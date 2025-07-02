@@ -33,7 +33,8 @@ module_energy_dac_xml <- function(command, ...) {
              "L262.BaseService_dac",
              "L262.PriceElasticity_dac",
              "L262.GlobalTechSCurve_dac",
-             "L262.GlobalTechProfitShutdown_dac"))
+             "L262.GlobalTechProfitShutdown_dac",
+             "L262.GlobalTechTrackCapital_dac"))
   } else if(command == driver.DECLARE_OUTPUTS) {
     return(c(XML = "dac_ssp1.xml",
              XML = "dac_ssp2.xml",
@@ -57,6 +58,7 @@ module_energy_dac_xml <- function(command, ...) {
     L262.SubsectorInterp_dac <- get_data(all_data, "L262.SubsectorInterp_dac")
     L262.StubTech_dac <- get_data(all_data, "L262.StubTech_dac")
     L262.GlobalTechShrwt_dac <- get_data(all_data, "L262.GlobalTechShrwt_dac")
+    L262.GlobalTechTrackCapital_dac <- get_data(all_data, "L262.GlobalTechTrackCapital_dac")
 
     coef_name <- paste0("L262.GlobalTechCoef_dac_",tolower(sce))
     cost_name <- paste0("L262.GlobalTechCost_dac_",tolower(sce))
@@ -90,6 +92,8 @@ module_energy_dac_xml <- function(command, ...) {
       add_xml_data(L262.StubTech_dac, "StubTech") %>%
       add_xml_data(L262.GlobalTechShrwt_dac, "GlobalTechShrwt") %>%
       add_xml_data(L262.GlobalTechCoef_dac, "GlobalTechCoef") %>%
+      add_node_equiv_xml("input") %>%
+      add_xml_data(L262.GlobalTechTrackCapital_dac, "GlobalTechTrackCapital") %>%
       add_xml_data(L262.GlobalTechCost_dac, "GlobalTechCost") %>%
       add_xml_data(L262.GlobalTechCapture_dac, "GlobalTechCapture") %>%
       add_xml_data(L262.StubTechProd_dac, "StubTechProd") %>%
@@ -115,7 +119,8 @@ module_energy_dac_xml <- function(command, ...) {
                      "L262.BaseService_dac",
                      "L262.PriceElasticity_dac",
                      "L262.GlobalTechSCurve_dac",
-                     "L262.GlobalTechProfitShutdown_dac") ->
+                     "L262.GlobalTechProfitShutdown_dac",
+                     "L262.GlobalTechTrackCapital_dac") ->
       xmlobj
     assign(xmlfn, xmlobj)
 

@@ -1,0 +1,127 @@
+PROPERTY CHANGEtitle
+PROPERTY CHANGEdocument-replaced
+DOCUMENT REPLACED
+PROPERTY CHANGEdocument-replaced
+DOCUMENT REPLACED
+Going to change controls
+About to perform query: collection()/scenario
+About to perform query: distinct-values(collection()/scenario/world/*[@type = 'region']/@name)
+Didn't find builder for detailed land allocation query going to use defaults
+Didn't find builder for detailed historical land allocation query going to use defaults
+Didn't find builder for land allocation by crop query going to use defaults
+Didn't find builder for aggregated land allocation query going to use defaults
+Didn't find builder for aggregated historical land allocation query going to use defaults
+Didn't find builder for land allocation in a specified land use region query going to use defaults
+Didn't find builder for land allocation by crop and water source query going to use defaults
+Didn't find builder for LUC emissions by region query going to use defaults
+Didn't find builder for LUC emissions by LUT query going to use defaults
+Didn't find builder for LUC emissions by LUT in a specified land use region query going to use defaults
+Didn't find builder for vegetative carbon stock by region query going to use defaults
+Didn't find builder for profit rate query going to use defaults
+Didn't find builder for profit rate in a specified land use region query going to use defaults
+Didn't find builder for land leaf shares query going to use defaults
+Didn't find builder for land leaf shares in a specified land use region query going to use defaults
+Didn't find builder for National Account query going to use defaults
+Didn't find builder for Social Accounting Matrix query going to use defaults
+About to perform query: collection()/singleQueryListCache/cache[@id=-1477939016]/text()
+Time : 8
+About to perform query: collection()/singleQueryListCache/cache[@id=-2083195275]/text()
+Time : 2
+About to perform query: collection()/singleQueryListCache/cache[@id=788658499]/text()
+Time : 2
+About to perform query: collection()/singleQueryListCache/cache[@id=2069794658]/text()
+Time : 5
+Before Function: 1751032237143
+About to perform query: collection()/scenario[ (@name='NDC_LTT_GDP' and @date='2025-27-6T15:45:25+03:00') ]/world/region[ (@name='USA') ]/nationalAccount/account[@name = 'GDP']/node()
+In Function: 1751032237143
+After build Tree: 1751032238629
+After Add table: 1751032238629
+About to perform query: collection()/singleQueryListCache/cache[@id=-2005851958]/text()
+Time : 7
+Before Function: 1751032300194
+About to perform query: collection()/scenario[ (@name='NDC_LTT_GDP' and @date='2025-27-6T15:45:25+03:00') ]/world/region[ (@name='USA') ]/nationalAccount/account[@name = 'gdp-per-capita-ppp']/node()
+In Function: 1751032300194
+After build Tree: 1751032300206
+After Add table: 1751032300206
+Going to change controls
+Doing remove because of control
+Doing remove because of control
+About to perform query: collection()/scenario
+About to perform query: distinct-values(collection()/scenario/world/*[@type = 'region']/@name)
+Didn't find builder for detailed land allocation query going to use defaults
+Didn't find builder for detailed historical land allocation query going to use defaults
+Didn't find builder for land allocation by crop query going to use defaults
+Didn't find builder for aggregated land allocation query going to use defaults
+Didn't find builder for aggregated historical land allocation query going to use defaults
+Didn't find builder for land allocation in a specified land use region query going to use defaults
+Didn't find builder for land allocation by crop and water source query going to use defaults
+Didn't find builder for LUC emissions by region query going to use defaults
+Didn't find builder for LUC emissions by LUT query going to use defaults
+Didn't find builder for LUC emissions by LUT in a specified land use region query going to use defaults
+Didn't find builder for vegetative carbon stock by region query going to use defaults
+Didn't find builder for profit rate query going to use defaults
+Didn't find builder for profit rate in a specified land use region query going to use defaults
+Didn't find builder for land leaf shares query going to use defaults
+Didn't find builder for land leaf shares in a specified land use region query going to use defaults
+Didn't find builder for National Account query going to use defaults
+Didn't find builder for Social Accounting Matrix query going to use defaults
+About to perform query: collection()/singleQueryListCache/cache[@id=2069794658]/text()
+Time : 6
+Before Function: 1751032392120
+About to perform query: collection()/scenario[ (@name='NDC_LTT_DERP1_DACCS_2_4' and @date='2025-22-4T01:11:40-021:00') ]/world/region[ (@name='USA') ]/nationalAccount/account[@name = 'GDP']/node()
+In Function: 1751032392120
+Before Function: 1751032392442
+About to perform query: collection()/scenario[ (@name='NDC_LTT_DERP1_DACCS_2_4' and @date='2025-22-4T01:11:40-021:00') ]/world/region[ (@name='USA') ]/nationalAccount/account[@name = 'GDP']/node()
+In Function: 1751032392442
+After build Tree: 1751032393799
+After Add table: 1751032393799
+After build Tree: 1751032393808
+After Add table: 1751032393808
+New Table: null
+My Table: ModelInterface.ModelGUI2.tables.TableSorter@708d8d33
+Doing remove because of query/table
+About to perform query: collection()/singleQueryListCache/cache[@id=-2083195275]/text()
+Time : 2
+About to perform query: collection()/singleQueryListCache/cache[@id=-2005851958]/text()
+Time : 2
+Before Function: 1751032398245
+About to perform query: collection()/scenario[ (@name='NDC_LTT_DERP1_DACCS_2_4' and @date='2025-22-4T01:11:40-021:00') ]/world/region[ (@name='USA') ]/nationalAccount/account[@name = 'gdp-per-capita-ppp']/node()
+In Function: 1751032398247
+After build Tree: 1751032398256
+After Add table: 1751032398256
+Going to change controls
+Doing remove because of control
+Doing remove because of control
+About to perform query: collection()/scenario
+About to perform query: distinct-values(collection()/scenario/world/*[@type = 'region']/@name)
+Didn't find builder for detailed land allocation query going to use defaults
+Didn't find builder for detailed historical land allocation query going to use defaults
+Didn't find builder for land allocation by crop query going to use defaults
+Didn't find builder for aggregated land allocation query going to use defaults
+Didn't find builder for aggregated historical land allocation query going to use defaults
+Didn't find builder for land allocation in a specified land use region query going to use defaults
+Didn't find builder for land allocation by crop and water source query going to use defaults
+Didn't find builder for LUC emissions by region query going to use defaults
+Didn't find builder for LUC emissions by LUT query going to use defaults
+Didn't find builder for LUC emissions by LUT in a specified land use region query going to use defaults
+Didn't find builder for vegetative carbon stock by region query going to use defaults
+Didn't find builder for profit rate query going to use defaults
+Didn't find builder for profit rate in a specified land use region query going to use defaults
+Didn't find builder for land leaf shares query going to use defaults
+Didn't find builder for land leaf shares in a specified land use region query going to use defaults
+Didn't find builder for National Account query going to use defaults
+Didn't find builder for Social Accounting Matrix query going to use defaults
+About to perform query: collection()/singleQueryListCache/cache[@id=2069794658]/text()
+Time : 5
+Before Function: 1751032456785
+About to perform query: collection()/scenario[ (@name='NDC_LTT' and @date='2025-21-4T22:48:05+03:00') ]/world/region[ (@name='USA') ]/nationalAccount/account[@name = 'GDP']/node()
+In Function: 1751032456785
+About to perform query: collection()/singleQueryListCache/cache[@id=-2005851958]/text()
+Time : 2
+Before Function: 1751032458660
+About to perform query: collection()/scenario[ (@name='NDC_LTT' and @date='2025-21-4T22:48:05+03:00') ]/world/region[ (@name='USA') ]/nationalAccount/account[@name = 'gdp-per-capita-ppp']/node()
+In Function: 1751032458660
+After build Tree: 1751032458984
+After Add table: 1751032458984
+After build Tree: 1751032458986
+After Add table: 1751032458986

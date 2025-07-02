@@ -12,7 +12,7 @@
 #' \code{L262.SubsectorLogitTables[[ curr_table ]]$data}, \code{L262.SubsectorLogit_dac}, \code{L262.SubsectorShrwtFllt_dac},
 #' \code{L262.SubsectorInterp_dac}, \code{L262.StubTech_dac}, \code{L262.GlobalTechShrwt_dac}, \code{L262.GlobalTechCoef_dac},
 #' \code{L262.GlobalTechCost_dac}, \code{L262.GlobalTechCapture_dac}, \code{L262.StubTechProd_dac}, \code{L262.StubTechCalInput_dac_heat},
-#' \code{L262.StubTechCoef_dac}, \code{L262.PerCapitaBased_dac}, \code{L262.BaseService_dac}, \code{L262.PriceElasticity_dac}, \code{object}.
+#' \code{L262.StubTechCoef_dac},\code{L262.GlobalTechTrackCapital_dac}, \code{L262.PerCapitaBased_dac}, \code{L262.BaseService_dac}, \code{L262.PriceElasticity_dac}, \code{object}.
 #' The corresponding file in the original data system was \code{L262.dac.R} (energy level2).
 #' @details The chunk provides final energy keyword, supplysector/subsector information, supplysector/subsector interpolation information, global technology share weight, global technology efficiency, global technology coefficients, global technology cost, price elasticity, stub technology information, stub technology interpolation information, stub technology calibrated inputs, and etc for dac sector.
 #' @importFrom assertthat assert_that
@@ -96,7 +96,8 @@ module_energy_L262.dac <- function(command, ...) {
              "L262.StubTechProd_dac",
              "L262.BaseService_dac",
              "L262.GlobalTechSCurve_dac",
-             "L262.GlobalTechProfitShutdown_dac"))
+             "L262.GlobalTechProfitShutdown_dac",
+             "L262.GlobalTechTrackCapital_dac"))
   } else if(command == driver.MAKE) {
 
     all_data <- list(...)[[1]]
@@ -268,7 +269,16 @@ module_energy_L262.dac <- function(command, ...) {
       select(LEVEL2_DATA_NAMES[["GlobalTechCost"]],'scenario') ->
       L262.GlobalTechCost_dac # intermediate tibble
 
+    #Add FCR
+    FCR <- (socioeconomics.DEFAULT_INTEREST_RATE * (1+socioeconomics.DEFAULT_INTEREST_RATE)^socioeconomics.INDUSTRY_CAP_PAYMENTS) /
+      ((1+socioeconomics.DEFAULT_INTEREST_RATE)^socioeconomics.INDUSTRY_CAP_PAYMENTS -1)
 
+    L262.GlobalTechTrackCapital_dac <- L262.GlobalTechCost_dac %>%
+      mutate(capital.coef = socioeconomics.INDUSTRY_CAPITAL_RATIO / FCR,
+             tracking.market = socioeconomics.EN_CAPITAL_MARKET_NAME,
+             # vintaging is active so no need for depreciation
+             depreciation.rate = 0) %>%
+      select(LEVEL2_DATA_NAMES[['GlobalTechTrackCapital']])
 
     L262.GlobalTechCapture_dac %>%
       pull(remove.fraction) %>%
@@ -564,7 +574,8 @@ module_energy_L262.dac <- function(command, ...) {
                 L262.GlobalTechCapture_dac,
                 L262.PerCapitaBased_dac,
                 L262.PriceElasticity_dac,L262.StubTechProd_dac,L262.BaseService_dac,L262.GlobalTechSCurve_dac,
-                L262.GlobalTechProfitShutdown_dac)
+                L262.GlobalTechProfitShutdown_dac,
+                L262.GlobalTechTrackCapital_dac)
   } else {
     stop("Unknown command")
   }

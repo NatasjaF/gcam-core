@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <region name="Africa_Eastern">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Africa_Northern">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Africa_Southern">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Africa_Western">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Argentina">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Australia_NZ">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Brazil">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Canada">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Central America and Caribbean">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Central Asia">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="China">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Colombia">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="EU-12">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="EU-15">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Europe_Eastern">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Europe_Non_EU">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="European Free Trade Association">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="India">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Indonesia">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Japan">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Mexico">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Middle East">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Pakistan">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Russia">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="South Africa">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="South America_Northern">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="South America_Southern">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="South Asia">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="South Korea">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Southeast Asia">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="Taiwan">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="USA">
+            <supplysector name="gas processing">
+                <subsector name="natural gas">
+                    <stub-technology name="natural gas">
+                        <period year="2040">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.079516406</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.110529219</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="fuel-tax">
+                                <input-cost>1.126944063</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

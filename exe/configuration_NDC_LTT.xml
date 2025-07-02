@@ -5,7 +5,7 @@
 		<Value name="BatchFileName">batch_ag.xml</Value>
 		<Value name="policy-target-file">../input/policy/forcing_target_4p5.xml</Value>
 		<Value name="GHGInputFileName">../input/magicc/inputs/input_gases.emk</Value>
-		<Value write-output="1" append-scenario-name="0" name="xmldb-location">../output/database_basexdb_2100</Value>
+		<Value write-output="1" append-scenario-name="0" name="xmldb-location">../output/database_basexdb_2100_DCA_GDP</Value>
 		<Value write-output="1" append-scenario-name="0" name="restart">./restart/restart</Value>
 		<Value write-output="0" append-scenario-name="1" name="xmlDebugFileName">debug.xml</Value>
 		<Value write-output="1" append-scenario-name="0" name="climatFileName">gas.emk</Value>
@@ -147,7 +147,7 @@
         <Value name = "EU_ETS">../input/gcamdata/xml_policy/policy_ccap_eu_2020.xml</Value>
         <Value name = "EU_ETS">../input/CP_NDC_LTT/policy_ccap_eu_NDC.xml</Value> <!----------adapted for 2030 ETS price------------>
         <!--Value name = "EU_TPES">../input/gcamdata/xml_policy/policy_tpes_eu.xml</Value-->
-        <Value name = "EU_FE">../input/gcamdata/xml_policy/policy_fe_eu_2045.xml</Value>
+        <Value name = "EU_FE">../input/gcamdata/xml_policy/policy_fe_eu.xml</Value>
         <Value name = "EU_H2">../input/gcamdata/xml_policy/policy_greenH2_eu.xml</Value>
         <Value name = "EU_EV">../input/gcamdata/xml_policy/policy_4Wfuel_po_eu.xml</Value>
         <Value name = "EU_RE">../input/gcamdata/xml_policy/policy_RE_targets_EU.xml</Value> <!----------adapted for post-2030------------>
@@ -263,7 +263,7 @@
 		<Value name="policy-target-file">../input/CP_NDC_LTT/constraint_bio_col.xml</Value>
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">NDC_LTT</Value>
+		<Value name="scenarioName">NDC_LTT_GDP</Value>
 		<Value name="debug-region">USA</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value
 >
@@ -273,7 +273,7 @@
 	<Bools>
 		<Value name="CalibrationActive">1</Value>
 		<!-- Fixed GDP will calibrate to exogenous path -->
-		<Value name="FixedGDP-Path">1</Value>
+		<Value name="FixedGDP-Path">0</Value>
 		<Value name="BatchMode">0</Value>
 		<Value name="find-path">0</Value>
 		<Value name="createCostCurve">0</Value>

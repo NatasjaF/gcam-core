@@ -894,3 +894,35 @@ Russia,resid others,refined liquids,resid others,refined liquids,0.169301,0.1256
 Russia,total biomass,domestic biomass,total biomass,domestic biomass,0.454024,0.256485,0.259666,0.287706,EJ
 Russia,total biomass,imported biomass,total biomass,imported biomass,0.0559074,0.0330206,0.0309663,0.0318536,EJ
 Russia,wholesale gas,wholesale gas,wholesale gas,wholesale gas,5.77411,5.85944,6.65374,6.07054,EJ
+Africa_Eastern,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+Africa_Northern,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+Africa_Southern,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+Africa_Western,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+Argentina,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+Australia_NZ,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+Brazil,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+Canada,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+Central America and Caribbean,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+Central Asia,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+China,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+Colombia,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+EU-12,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+EU-15,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+Europe_Eastern,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+Europe_Non_EU,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+European Free Trade Association,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+India,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+Indonesia,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+Japan,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+Mexico,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+Middle East,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+Pakistan,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+Russia,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+South Africa,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+South America_Northern,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+South America_Southern,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+South Asia,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+South Korea,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+Southeast Asia,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+Taiwan,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
+USA,airCO2,airCO2,airCO2,airCO2,0,0,0,0,Mt
