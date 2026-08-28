@@ -1,0 +1,82 @@
+PROPERTY CHANGEtitle
+PROPERTY CHANGEdocument-replaced
+DOCUMENT REPLACED
+PROPERTY CHANGEdocument-replaced
+DOCUMENT REPLACED
+Going to change controls
+About to perform query: collection()/scenario
+About to perform query: distinct-values(collection()/scenario/world/*[@type = 'region']/@name)
+Didn't find builder for detailed land allocation query going to use defaults
+Didn't find builder for detailed historical land allocation query going to use defaults
+Didn't find builder for land allocation by crop query going to use defaults
+Didn't find builder for aggregated land allocation query going to use defaults
+Didn't find builder for aggregated historical land allocation query going to use defaults
+Didn't find builder for land allocation in a specified land use region query going to use defaults
+Didn't find builder for land allocation by crop and water source query going to use defaults
+Didn't find builder for LUC emissions by region query going to use defaults
+Didn't find builder for LUC emissions by LUT query going to use defaults
+Didn't find builder for LUC emissions by LUT in a specified land use region query going to use defaults
+Didn't find builder for vegetative carbon stock by region query going to use defaults
+Didn't find builder for profit rate query going to use defaults
+Didn't find builder for profit rate in a specified land use region query going to use defaults
+Didn't find builder for land leaf shares query going to use defaults
+Didn't find builder for land leaf shares in a specified land use region query going to use defaults
+Didn't find builder for National Account query going to use defaults
+Didn't find builder for Social Accounting Matrix query going to use defaults
+Going to change controls
+About to perform query: collection()/scenario
+About to perform query: distinct-values(collection()/scenario/world/*[@type = 'region']/@name)
+Didn't find builder for detailed land allocation query going to use defaults
+Didn't find builder for detailed historical land allocation query going to use defaults
+Didn't find builder for land allocation by crop query going to use defaults
+Didn't find builder for aggregated land allocation query going to use defaults
+Didn't find builder for aggregated historical land allocation query going to use defaults
+Didn't find builder for land allocation in a specified land use region query going to use defaults
+Didn't find builder for land allocation by crop and water source query going to use defaults
+Didn't find builder for LUC emissions by region query going to use defaults
+Didn't find builder for LUC emissions by LUT query going to use defaults
+Didn't find builder for LUC emissions by LUT in a specified land use region query going to use defaults
+Didn't find builder for vegetative carbon stock by region query going to use defaults
+Didn't find builder for profit rate query going to use defaults
+Didn't find builder for profit rate in a specified land use region query going to use defaults
+Didn't find builder for land leaf shares query going to use defaults
+Didn't find builder for land leaf shares in a specified land use region query going to use defaults
+Didn't find builder for National Account query going to use defaults
+Didn't find builder for Social Accounting Matrix query going to use defaults
+About to perform query: collection()/singleQueryListCache/cache[@id=-219701489]/text()
+Time : 3
+Before Function: 1780494795427
+About to perform query: collection()/scenario[ (@name='Ref_newTrn_Adj' and @date='2026-3-6T13:47:28+02:00') ]/world/region[ (@name='Germany') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/*[@type='technology']/*[@type='output' (:collapse:) and not (@name='CAFEcredit')]/
+               physical-output/node()
+In Function: 1780494795429
+After build Tree: 1780494795538
+After Add table: 1780494795538
+New Table: null
+My Table: ModelInterface.ModelGUI2.tables.TableSorter@7b21ae25
+Doing remove because of query/table
+Before Function: 1780494799329
+About to perform query: collection()/scenario[ (@name='Ref_NewTrn' and @date='2026-31-5T21:24:16+02:00') or (@name='Ref_newTrn_Adj' and @date='2026-3-6T13:47:28+02:00') ]/world/region[ (@name='Germany') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/*[@type='technology']/*[@type='output' (:collapse:) and not (@name='CAFEcredit')]/
+               physical-output/node()
+In Function: 1780494799329
+After build Tree: 1780494799843
+After Add table: 1780494799843
+Before Function: 1780494945993
+About to perform query: collection()/scenario[ (@name='Ref_NewTrn' and @date='2026-31-5T21:24:16+02:00') or (@name='Ref_newTrn_Adj' and @date='2026-3-6T13:47:28+02:00') ]/world/region[ (@name='Netherlands') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/*[@type='technology']/*[@type='output' (:collapse:) and not (@name='CAFEcredit')]/
+               physical-output/node()
+In Function: 1780494945994
+After build Tree: 1780494946372
+After Add table: 1780494946372
+About to perform query: collection()/singleQueryListCache/cache[@id=-1031600442]/text()
+Time : 1
+Before Function: 1780494973893
+About to perform query: collection()/scenario[ (@name='Ref_NewTrn' and @date='2026-31-5T21:24:16+02:00') or (@name='Ref_newTrn_Adj' and @date='2026-3-6T13:47:28+02:00') ]/world/region[ (@name='Netherlands') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/*[@type='subsector' ]/*[@type='technology']/share-weight/node()
+In Function: 1780494973893
+After build Tree: 1780494973958
+After Add table: 1780494973958
+Caught the window closing
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
